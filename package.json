@@ -1,0 +1,19 @@
+{
+  "name": "videocompressor",
+  "version": "1.0.0",
+  "description": "This will compress you videos",
+  "main": "main.js",
+  "scripts": {
+    "test": "start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emadPoursina/videoCompressor.git"
+  },
+  "author": "Emad Poursina",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/emadPoursina/videoCompressor/issues"
+  },
+  "homepage": "https://github.com/emadPoursina/videoCompressor#readme"
+}
